@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Full stack Development, AI ML Solutions
 - 💞️ I’m looking to collaborate on Any Day
-- 📫 How to reach me on radagastroigi@gmail.com
+- 📫 How to reach me on monkthetics@gmail.com
 - ⚡ I'm currently engaged in: Problem Solving & Software Development
 - 😄 Activities:
 -               -- Problem Solving, Projects

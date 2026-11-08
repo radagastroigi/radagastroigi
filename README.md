@@ -1,18 +1,36 @@
-- 👋 Hi, I’m @radagastroigi
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Full stack Development, AI ML Solutions
-- 💞️ I’m looking to collaborate on Any Day
-- 📫 How to reach me on monkthetics@gmail.com
-- ⚡ I'm currently engaged in: Problem Solving & Software Development
-- 😄 Activities:
--               -- Problem Solving, Projects
-                -- Fundamental Concepts, Projects, Events, Portfolio, network
--               -- Portfolio: Projects, Certifications, Courses, Classes
--               -- Events:  Hackathons, Competitions, Webinars
--               -- Network: Freelance, Interview, Reddit, GitHub Open source contribution, Linkdin      
--               -- Fundamental Concepts: Gate, UseCase & CaseStudy and existing problem solving patterns, 
+# Hi, I'm Shiva Rakesh 👋
 
-<!---
-radagastroigi/radagastroigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer specializing in backend engineering, distributed systems, and modern enterprise architectures (.NET / C# / Python). Currently building high-throughput payment systems, real-time rate limiters, and scalable microservices.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** C#, Python, SQL, TypeScript
+- **Backend & Frameworks:** ASP.NET Core, .NET 8, Web API, gRPC, Entity Framework Core, LINQ
+- **Architecture & Systems:** Microservices, Event-Driven Architecture, Distributed Caching, Sliding-Window Rate Limiting
+- **Databases & Caching:** MS SQL Server, PostgreSQL, Redis
+- **Cloud & DevOps:** Docker, Kubernetes, IIS, Git, GitHub Actions
+
+---
+
+### 🚀 Highlighted Projects
+
+- **[FinCore-AI](https://github.com/radagastroigi/FinCore-Enterprise-Systems)**  
+  High-throughput fintech payment engine featuring:
+  - In-memory sliding-window velocity limiter using deque queues for burst-fraud prevention.
+  - Idempotency engines with atomic distributed locking via Redis.
+  - Double-entry immutable ledger models with optimistic concurrency control.
+
+- **[GoalTrack](https://github.com/radagastroigi)**  
+  Full-stack goal tracking application built with Next.js 14 and Supabase, featuring activity streak calculation algorithms and custom analytical SVG dashboards.
+
+- **Non-Invasive Health Tech Prototype**  
+  Embedded C & ATmega328P prototype estimating glucose (90% accuracy) and hemoglobin (90.9% accuracy) via optical PhotoPlethysmoGraphy (PPG) sensors.
+
+---
+
+### 📫 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Portfolio:** [your-username.github.io](https://your-username.github.io)

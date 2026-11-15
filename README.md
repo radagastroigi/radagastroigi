@@ -4,6 +4,9 @@ Software Engineer specializing in backend engineering, distributed systems, and 
 
 ---
 
+### 🎥 Watch My 60-Second Engineer Intro
+[![Watch my video resume](https://img.shields.io/badge/Watch-60s%20Video%20Resume-red?style=for-the-badge&logo=youtube)](https://www.loom.com/share/41bde33a487442dfaca639692ed312cd)
+
 ### 🛠️ Tech Stack & Tools
 
 - **Languages:** C#, Python, SQL, TypeScript

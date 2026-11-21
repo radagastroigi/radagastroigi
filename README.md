@@ -41,15 +41,38 @@
 
 ---
 
+### 🏢 Industrial Experience
+
+- **Software Engineer — HCLTech** *(Chennai, India)*
+  - Building and maintaining `.NET Web API` and `Angular` enterprise applications on Windows/IIS and `AWS` cloud infrastructure.
+  - Led `.NET Framework 4.5` to `4.8` modernization and single-server IIS consolidation across four BPO setups for the Atlas enterprise application.
+  - Managing `SQL Server` queries, scheduled `SQL Server Agent` jobs, and `PowerShell` operational automation, alongside applied AI/LLM engineering (`Python`, `LangGraph`, `MCP` on `AWS`).
+
+- **Software Engineer — ITGalax** *(Jul 2023 – Apr 2025 · 1 yr 9 mos)*
+  - Developed backend microservices, `gRPC` services, and `SQL` stored procedures for an enterprise pension platform focused on data integrity and auditability.
+  - Migrated `.NET Core` / `.NET 6` services to `.NET 8`, tuned `Entity Framework` and `LINQ` queries across `MSSQL` and `MySQL`, and handled `WinSCP` deployments on `Linux` servers.
+
+---
+
 ### 🧩 Tech Stack
 
+| Layer | Tools & Frameworks |
+| :--- | :--- |
+| **Languages** | `C#`, `Python`, `SQL` (T-SQL, MySQL), `TypeScript`, `PowerShell`, `Embedded C` |
+| **Backend & APIs** | `.NET 8` / `.NET Core`, `.NET Framework 4.8`, `ASP.NET Core Web API`, `FastAPI`, `gRPC`, `Entity Framework`, `LINQ` |
+| **Frontend & Web** | `Angular`, `TypeScript`, `HTML/CSS` |
+| **Databases & Messaging** | `SQL Server` (SSMS, SQL Server Agent), `MySQL`, `PostgreSQL`, `SQLite`, `Redis` patterns, Transactional Outbox & DLQ |
+| **AI & ML** | `scikit-learn`, `PyTorch`, `LangGraph`, `CrewAI`, `RAG`, `MCP`, fraud/risk scoring & PSI drift monitoring |
+| **Cloud, Infra & Tooling** | `AWS` (IAM, App Runner, EC2), `Docker`, `IIS`, `Linux`, `WinSCP`, `Git`, `GitHub Actions`, `pytest`, `uv` |
+
 <div align="center">
+  <br />
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,ts,postgres,mysql,sqlite,redis,docker,aws,git,githubactions,pytorch,sklearn&perline=8" alt="Tech Stack Icons" />
 </div>
 
 ---
 
 ### 🏗️ Background & Craft
-- 💼 **Work:** Software Engineer at **HCLTech** (`.NET` modernization, SQL Server OLTP tuning, Python/LangGraph/MCP on AWS) · Formerly Backend Developer at **ITGalax Solutions** (`.NET 8`, `gRPC` financial/pension microservices, RBAC engine).
-- 🩺 **Hardware Project:** Non-invasive optical PPG prototype (Embedded C / ATmega328P) estimating blood glucose (`90%`) and hemoglobin (`90.9%`).
-- 🧠 **Daily Practice:** Handcrafted DSA + flagship system design breakdowns (WhatsApp, Netflix, IRCTC Tatkal, Zerodha Kite, Uber H3).
+- 🎓 **Education:** B.E. in Computer Science and Engineering — Velammal College of Engineering and Technology (`8.7 / 10` CGPA).
+- 🩺 **Hardware Project:** Non-invasive optical PPG prototype (`Embedded C` / `ATmega328P`) estimating blood glucose (`90%`) and hemoglobin (`90.9%`).
+- 🧠 **Daily Practice:** Handcrafted DSA (`LeetCode` / `NeetCode`) + flagship system design breakdowns (WhatsApp, Netflix, IRCTC Tatkal, Zerodha Kite, Uber H3).

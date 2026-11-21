@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.jpg" alt="Shiva Rakesh S — Engineering Banner" width="100%" />
+<img src="banner.jpg.png" alt="Shiva Rakesh S — Engineering Banner" width="100%" />
 
 <br />
 

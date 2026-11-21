@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.jpg.png" alt="Shiva Rakesh S — Engineering Banner" width="100%" />
-
 <br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1400&color=E2A37E&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Shiva+Rakesh+S+%F0%9F%91%8B;Backend+%26+Applied+AI+Systems+Engineer;Building+PayShield+%26+FinCore-AI+from+Chennai" alt="Typing SVG" />

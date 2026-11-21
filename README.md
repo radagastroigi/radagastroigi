@@ -1,26 +1,57 @@
-# Hi, I'm Shiva Rakesh S
+<div align="center">
 
-Backend & Applied AI Systems Engineer based in Chennai, India.  
-3+ years shipping production **C# / .NET 8**, **SQL Server**, **Python / FastAPI**, and **AWS** systems—now building resilient payment infrastructure and real, hosted software products.
+<img src="banner.jpg" alt="Shiva Rakesh S — Engineering Banner" width="100%" />
 
-[[https://img.shields.io/badge/Watch-60s%20Video%20Intro-A94D28?style=for-the-badge&logo=loom&logoColor=white]](https://www.loom.com/share/41bde33a487442dfaca639692ed312cd)
-[[https://img.shields.io/badge/Portfolio-radagastroigi.github.io-161514?style=for-the-badge]](https://radagastroigi.github.io/)
-[[https://img.shields.io/badge/LinkedIn-shiva--rakesh--s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white]](https://www.linkedin.com/in/shiva-rakesh-s/)
-[[https://img.shields.io/badge/LeetCode-DSA%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black]](https://leetcode.com/u/radagastroigi/)
+<br />
 
-### Tech Stack
-- **Languages:** C#, Python, SQL, TypeScript
-- **Backend & Distributed Systems:** .NET 8, ASP.NET Core, FastAPI, gRPC, Sliding-Window Rate Limiting, ACID Double-Entry Ledgers, Circuit Breakers, Webhook DLQs
-- **Applied AI & ML:** scikit-learn, PyTorch, LangGraph, Model Context Protocol (MCP), Hybrid RAG, PSI Drift Monitoring
-- **Data & Cloud:** MS SQL Server (OLTP Tuning), PostgreSQL, MySQL, SQLite, Redis, Docker, AWS (App Runner, Lambda, S3, SageMaker), GitHub Actions, pytest
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1400&color=E2A37E&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Shiva+Rakesh+S+%F0%9F%91%8B;Backend+%26+Applied+AI+Systems+Engineer;Building+PayShield+%26+FinCore-AI+from+Chennai" alt="Typing SVG" />
 
-### Products I'm Shipping
-- **[PayShield (Powered by FinCore-AI)](https://github.com/radagastroigi/FinCore-Enterprise-Systems)** — Self-hostable & cloud payment risk, velocity limiter, HMAC webhook DLQ, and `scikit-learn` fraud ML + PSI drift guard (`Python`, `FastAPI`, `Docker`, `pytest`).
-- **OfferSniper AI** — Cloud-hosted JD-to-resume gap analyzer, interview drill engine, and concise outreach generator for software engineers.
-- **QuickBill UPI** — Mobile-first offline PWA (Play Store TWA ready) for 5-second GST/freelance invoices, dynamic UPI QR payment links, and WhatsApp receipt sharing.
-- **Non-Invasive PPG Health Monitor** — Embedded C & ATmega328P optical PPG prototype estimating blood glucose (90% accuracy) and hemoglobin (90.9% accuracy).
+<p>
+  <strong>3+ years shipping production C#/.NET 8, SQL Server, Python &amp; AWS systems.</strong><br />
+  <em>Building resilient payment infrastructure and real, hosted software products.</em>
+</p>
 
-### Connect
-- **Portfolio:** [radagastroigi.github.io](https://radagastroigi.github.io/)
-- **LinkedIn:** [linkedin.com/in/shiva-rakesh-s](https://www.linkedin.com/in/shiva-rakesh-s/)
-- **Email:** monkthetics@gmail.com
+<p>
+  <a href="https://radagastroigi.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-radagastroigi.github.io-161514?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://www.loom.com/share/41bde33a487442dfaca639692ed312cd">
+    <img src="https://img.shields.io/badge/🎬_60s_Video_Intro-Watch_Now-C87D55?style=for-the-badge" alt="60s Video Intro" />
+  </a>
+  <a href="https://www.linkedin.com/in/shiva-rakesh-s/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/radagastroigi/">
+    <img src="https://img.shields.io/badge/⚡_LeetCode-DSA_Practice-FFA116?style=for-the-badge" alt="LeetCode" />
+  </a>
+  <a href="mailto:monkthetics@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-monkthetics@gmail.com-3F3B37?style=for-the-badge" alt="Email" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### 🚀 Products I'm Shipping
+
+| Product | What It Solves | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| 🛡️ **[PayShield](https://github.com/radagastroigi/FinCore-Enterprise-Systems)** *(FinCore-AI)* | Payment fraud ML, sliding-window velocity, ACID ledger & HMAC webhook DLQ guard | Python, FastAPI, scikit-learn, Docker | ✅ Core live (`v1.15`) · ☁️ Hosting SaaS |
+| 🎯 **OfferSniper AI** | Instant JD-to-resume gap analyzer, interview drills & concise outreach notes | Python, FastAPI, Web UI | 🛠️ In build · ☁️ Cloud web app |
+| 🧾 **QuickBill UPI** | 5-second GST/freelance invoices, dynamic UPI QR links & WhatsApp PDF sharing | Offline PWA, Play Store TWA | 🛠️ In build · 📱 Mobile-first |
+
+---
+
+### 🧩 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,ts,postgres,mysql,sqlite,redis,docker,aws,git,githubactions,pytorch,sklearn&perline=8" alt="Tech Stack Icons" />
+</div>
+
+---
+
+### 🏗️ Background & Craft
+- 💼 **Work:** Software Engineer at **HCLTech** (`.NET` modernization, SQL Server OLTP tuning, Python/LangGraph/MCP on AWS) · Formerly Backend Developer at **ITGalax Solutions** (`.NET 8`, `gRPC` financial/pension microservices, RBAC engine).
+- 🩺 **Hardware Project:** Non-invasive optical PPG prototype (Embedded C / ATmega328P) estimating blood glucose (`90%`) and hemoglobin (`90.9%`).
+- 🧠 **Daily Practice:** Handcrafted DSA + flagship system design breakdowns (WhatsApp, Netflix, IRCTC Tatkal, Zerodha Kite, Uber H3).

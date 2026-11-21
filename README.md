@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/shiva-rakesh-s/">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/radagastroigi/">
+  <a href="https://leetcode.com/u/monkthetics/">
     <img src="https://img.shields.io/badge/⚡_LeetCode-DSA_Practice-FFA116?style=for-the-badge" alt="LeetCode" />
   </a>
   <a href="mailto:monkthetics@gmail.com">

@@ -25,6 +25,12 @@
   <a href="mailto:monkthetics@gmail.com">
     <img src="https://img.shields.io/badge/✉️_Email-monkthetics@gmail.com-3F3B37?style=for-the-badge" alt="Email" />
   </a>
+  <a href="https://payshield-saas.onrender.com/">
+  <img src="https://img.shields.io/badge/🚀_PayShield-Live_Cloud_App-A94D28?style=for-the-badge" alt="PayShield Live App" />
+</a>
+<a href="https://www.loom.com/share/9010e9330c1142469c31f07f76d6c7ed">
+  <img src="https://img.shields.io/badge/🎥_PayShield_Demo-Watch_Walkthrough-161514?style=for-the-badge" alt="PayShield Demo Video" />
+</a>
 </p>
 
 </div>

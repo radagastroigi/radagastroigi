@@ -35,5 +35,5 @@ Software Engineer specializing in backend engineering, distributed systems, and 
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [your-username.github.io](https://your-username.github.io)
+- **LinkedIn:** [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shiva-rakesh-s/))
+- **Portfolio:** [your-username.github.io](https://radagastroigi.github.io/)
